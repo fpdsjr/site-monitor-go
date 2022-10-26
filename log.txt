@@ -1,0 +1,9 @@
+26/10/2022 08:09:59 - https://random-status-code.herokuapp.com- online: false
+26/10/2022 08:09:59 - https://www.alura.com.br- online: true
+26/10/2022 08:10:00 - https://www.caelum.com.br- online: true
+26/10/2022 08:10:05 - https://random-status-code.herokuapp.com- online: true
+26/10/2022 08:10:06 - https://www.alura.com.br- online: true
+26/10/2022 08:10:06 - https://www.caelum.com.br- online: true
+26/10/2022 08:10:11 - https://random-status-code.herokuapp.com- online: false
+26/10/2022 08:10:12 - https://www.alura.com.br- online: true
+26/10/2022 08:10:12 - https://www.caelum.com.br- online: true
